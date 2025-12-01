@@ -89,7 +89,7 @@ These actions require humans to click, fill forms, update fields, and follow wor
 
 ⚠️ There is no simple NLP way to say “Add a new product with these details” and the system just does it automatically.
 
-#### 🟩 Solution
+## 🟩 Solution
 
 Enterprise AI Orchestration Agent solves this by allowing enterprises to control their systems using natural language.
 
@@ -116,7 +116,7 @@ No need for:
 
 The agent becomes a smart AI assistant that controls enterprise operations through NLP commands.
 
-#### 🟦 One-Line Summary
+## 🟦 One-Line Summary
 
 This agent replaces manual CMS work with AI-powered natural language automation, making enterprise operations faster, smarter, and hands-free.
 
