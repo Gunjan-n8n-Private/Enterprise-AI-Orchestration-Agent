@@ -35,13 +35,9 @@ verify_agent_tools.py — confirms that tools like preload_memory are correctly 
 This ensures the agent remains predictable, debuggable, and production-safe.
 
 #### 4. Clean & Modular Architecture
-project/
-│── agent.py # Core agent logic, tools, memory integration
-│── main.py # Entry point that runs the root agent
-│── inspect_tools.py # Debugging and memory inspection
-│── verify_agent_tools.py # Tool validation for safety
-│── .env # Configurations
-│── venv/ # Virtual environment
+
+<img width="336" height="252" alt="image" src="https://github.com/user-attachments/assets/af4275a9-7e57-4649-a0cd-a75dea52c252" />
+
 
 This structure demonstrates a real-world agentic system with separation of concerns, inspection utilities, and a clear running pipeline.
 
