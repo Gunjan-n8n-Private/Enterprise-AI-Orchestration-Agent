@@ -24,8 +24,8 @@ preload_memory
 These tools are added directly into the agent, allowing it to store, retrieve and preload state across sessions.
 This helps the agent adapt to past workflows and behave more intelligently over time.
 
-**#### 3. Agent Verification System
-**
+#### 3. Agent Verification System
+
 Created additional scripts to verify tool registration and introspect agent-side features:
 
 inspect_tools.py — introspects Google ADK memory tools
@@ -34,8 +34,8 @@ verify_agent_tools.py — confirms that tools like preload_memory are correctly 
 
 This ensures the agent remains predictable, debuggable, and production-safe.
 
-**#### 4. Clean & Modular Architecture
-**project/
+#### 4. Clean & Modular Architecture
+project/
 │── agent.py # Core agent logic, tools, memory integration
 │── main.py # Entry point that runs the root agent
 │── inspect_tools.py # Debugging and memory inspection
@@ -45,8 +45,8 @@ This ensures the agent remains predictable, debuggable, and production-safe.
 
 This structure demonstrates a real-world agentic system with separation of concerns, inspection utilities, and a clear running pipeline.
 
-**## 🧠 How the Agent Works Internally
-**
+## 🧠 How the Agent Works Internally
+
 root_agent is created in agent.py using Google ADK’s Agent class.
 
 Tools (load_memory, preload_memory, custom tools) are attached using FunctionTool.
@@ -67,8 +67,8 @@ inspect_tools.py (prints full metadata of ADK memory tools)
 
 This level of inspection ensures transparency and reliability — key requirements for enterprise adoption.
 
-**## 🟥 Problem
-**
+## 🟥 Problem
+
 To be honest, it does not solve a any problem, but it definitely gives enterprises a better and easier way to perform their daily tasks using natural language instead of CMS or master panels.
 
 Today, most enterprises still use manual systems like CMS dashboards, forms, master tables, and UI panels to do simple tasks such as:
@@ -89,8 +89,8 @@ These actions require humans to click, fill forms, update fields, and follow wor
 
 ⚠️ There is no simple NLP way to say “Add a new product with these details” and the system just does it automatically.
 
-**#### 🟩 Solution
-**
+#### 🟩 Solution
+
 Enterprise AI Orchestration Agent solves this by allowing enterprises to control their systems using natural language.
 
 Now a team member can simply say:
@@ -116,12 +116,12 @@ No need for:
 
 The agent becomes a smart AI assistant that controls enterprise operations through NLP commands.
 
-**#### 🟦 One-Line Summary
-**
+#### 🟦 One-Line Summary
+
 This agent replaces manual CMS work with AI-powered natural language automation, making enterprise operations faster, smarter, and hands-free.
 
-**## 📌 Example Scenario (Real-World Use Case)
-**
+## 📌 Example Scenario (Real-World Use Case)
+
 Imagine an enterprise employee saying:
 
 #### Example 1:
