@@ -10,7 +10,7 @@ This project focuses on demonstrating the core fundamentals of agent architectur
 The goal is to showcase how AI agents can replace traditional automation by understanding context, remembering past interactions, using tools intelligently, and coordinating multi-step tasks without human intervention.
 
 > [!IMPORTANT]
-> The agents in this repository are built using the **Agent Development Kit (ADK)**. Before you can run any of the samples, you must have the ADK installed. For instructions, please refer to the [**ADK Installation Guide**](https://google.github.io/adk-docs/get-started).
+> The agents in this repository are built using the **Agent Development Kit (ADK)**. Before you can run this project, you must have the ADK installed. For instructions, please refer to the [**ADK Installation Guide**](https://google.github.io/adk-docs/get-started).
 
 ## ⚙️ What This Agent Can Do:
 
