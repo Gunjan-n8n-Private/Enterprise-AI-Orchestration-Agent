@@ -1,4 +1,4 @@
-<img width="312" height="312" alt="agent-development-kit" src="https://github.com/user-attachments/assets/3be570af-72ab-41ed-b035-af6a0e975f43" />
+<img width="150" height="150" alt="agent-development-kit" src="https://github.com/user-attachments/assets/3be570af-72ab-41ed-b035-af6a0e975f43" />
 
 
 ## Enterprise AI Orchestration Agent
