@@ -3,12 +3,14 @@
 
 ## Enterprise AI Orchestration Agent
 
-
 Enterprise AI Orchestration Agent is a fully autonomous, extensible, and production-ready AI agent powered by Google ADK.
 It is designed to orchestrate complex enterprise workflows—memory handling, tool execution, data operations, and intelligent decision-making—through a single unified agentic pipeline.
 
 This project focuses on demonstrating the core fundamentals of agent architecture, including memory systems, tool orchestration, session management, and dynamic execution.
 The goal is to showcase how AI agents can replace traditional automation by understanding context, remembering past interactions, using tools intelligently, and coordinating multi-step tasks without human intervention.
+
+> [!IMPORTANT]
+> The agents in this repository are built using the **Agent Development Kit (ADK)**. Before you can run any of the samples, you must have the ADK installed. For instructions, please refer to the [**ADK Installation Guide**](https://google.github.io/adk-docs/get-started).
 
 ## ⚙️ What This Agent Can Do:
 
