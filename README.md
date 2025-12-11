@@ -41,7 +41,21 @@ This ensures the agent remains predictable, debuggable, and production-safe.
 
 #### 4. Clean & Modular Architecture
 
-<img width="336" height="252" alt="image" src="https://github.com/user-attachments/assets/af4275a9-7e57-4649-a0cd-a75dea52c252" />
+## 🌳 Repository Structure
+```bash
+├── user_question_answer
+│   ├── __pycache__
+│   ├── venv
+│   ├── __init__.py
+│   ├── .env
+│   ├── agent.py
+│   ├── inspect_tools.py
+|   ├── main.py
+|   ├── verify_agent_tools.py
+│   └── README.md
+├── .gitignore
+
+```
 
 
 This structure demonstrates a real-world agentic system with separation of concerns, inspection utilities, and a clear running pipeline.
